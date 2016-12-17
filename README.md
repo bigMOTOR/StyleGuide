@@ -1,5 +1,5 @@
-## Objective-C Style Guide
-# Forked from here https://github.com/raywenderlich/objective-c-style-guide
+# Objective-C Style Guide
+## Forked from here https://github.com/raywenderlich/objective-c-style-guide
 
 ## Background
 
